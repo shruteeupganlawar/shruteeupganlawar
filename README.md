@@ -20,7 +20,7 @@
 ### Publications
 
 - [*Robotic-Assisted CABG: A Comprehensive Review* · ACM, AIR 2025 (IIT Jodhpur)](https://dl.acm.org/doi/10.1145/3787370.3787406)
-- [*Enhanced Payload Fairing Design: Integrating CFRP and GFRP* · Springer LNME, ICMech REC'24. Got Best Paper](https://link.springer.com/book/10.1007/978-981-96-7576-0)
+- [*Enhanced Payload Fairing Design: Integrating CFRP and GFRP* · Springer LNME, ICMech REC'24. Got Best Paper Award](https://link.springer.com/book/10.1007/978-981-96-7576-0)
 
 ## Beyond robotics
 
